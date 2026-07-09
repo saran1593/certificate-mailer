@@ -1,0 +1,54 @@
+[2026-07-09T06:11:22.541Z] FAILED: Name="BALASIVA K P", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "BALASIVA K P.pdf""
+[2026-07-09T06:11:22.543Z] FAILED: Name="S.Bharath", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "S.Bharath.pdf""
+[2026-07-09T06:11:22.545Z] FAILED: Name="Saganah V S", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "Saganah V S.pdf""
+[2026-07-09T06:11:22.547Z] FAILED: Name="Aldhaf F", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "Aldhaf F.pdf""
+[2026-07-09T06:11:22.548Z] FAILED: Name="Asmitha C A", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "Asmitha C A.pdf""
+[2026-07-09T06:11:22.549Z] FAILED: Name="M.Bency Josema", Email="saranz1593@gmail.com", Reason="Missing PDF attachment: "M.Bency Josema.pdf""
+[2026-07-09T06:14:05.365Z] FAILED: Name="BALASIVA_K_P", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T06:14:06.737Z] FAILED: Name="S_Bharath", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T06:14:08.106Z] FAILED: Name="Saganah_V_S", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T06:14:09.468Z] FAILED: Name="Aldhaf_F", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T06:14:10.835Z] FAILED: Name="Asmitha_C_A", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T06:14:12.222Z] FAILED: Name="M_Bency_Josema", Email="saranz1593@gmail.com", Reason="Email delivery failed: FC050000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+"
+[2026-07-09T07:19:34.312Z] FAILED: Name="Anusha_V", Email="anushavinayagam4115@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-3118389d9bcsm19074831eec.20 - gsmtp"
+[2026-07-09T07:19:38.132Z] FAILED: Name="Anushiya_S", Email="anzysk38@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-31174accb0esm29761992eec.30 - gsmtp"
+[2026-07-09T07:19:41.920Z] FAILED: Name="Asha_V", Email="ashavinu385@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-13b659d8da9sm44262694c88.14 - gsmtp"
+[2026-07-09T07:19:45.702Z] FAILED: Name="Ashika_R_B", Email="ashikarasalraj@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-31174ac14f2sm29249306eec.27 - gsmtp"
+[2026-07-09T07:19:49.539Z] FAILED: Name="Asmitha_C_A", Email="asmithajona64@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-3117483941csm28428598eec.7 - gsmtp"
+[2026-07-09T07:19:53.385Z] FAILED: Name="Bala_Nagammal_K", Email="balalekshmi123@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-31174accae5sm42274919eec.29 - gsmtp"
+[2026-07-09T07:19:57.200Z] FAILED: Name="BALASIVA_K_P", Email="itsbalasivakannan@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-13b659c865asm28932653c88.11 - gsmtp"
+[2026-07-09T07:20:00.993Z] FAILED: Name="Balu_P", Email="balup200407@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-311a6115e61sm4363056eec.22 - gsmtp"
+[2026-07-09T07:20:04.690Z] FAILED: Name="Deepthi_D_L", Email="deepthidhas02@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-31174accae5sm42278318eec.29 - gsmtp"
+[2026-07-09T07:24:15.954Z] FAILED: Name="Anusha_V", Email="anushavinayagam4115@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-3117483dec6sm28336982eec.11 - gsmtp"
+[2026-07-09T07:25:34.952Z] FAILED: Name="Anusha_V", Email="anushavinayagam4115@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-3117d847e17sm25322567eec.18 - gsmtp"
+[2026-07-09T07:27:43.252Z] FAILED: Name="Anusha_V", Email="anushavinayagam4115@gmail.com", Reason="Email delivery failed: Data command failed: 550-5.4.5 Daily user sending limit exceeded. For more information on Gmail
+550-5.4.5 sending limits go to
+550 5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-31174accb0esm29853544eec.30 - gsmtp"
